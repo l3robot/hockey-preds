@@ -1,0 +1,12 @@
+black
+fuzzywuzzy
+isort
+jupyter
+matplotlib
+numpy
+pandas
+pip-tools
+pylint
+python-Levenshtein
+requests
+scipy
